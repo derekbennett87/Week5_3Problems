@@ -1,0 +1,15 @@
+C:\Users\derek\source\repos\Week5_3Problem\bin\Debug\net6.0\Week5_3Problem.exe
+C:\Users\derek\source\repos\Week5_3Problem\bin\Debug\net6.0\Week5_3Problem.deps.json
+C:\Users\derek\source\repos\Week5_3Problem\bin\Debug\net6.0\Week5_3Problem.runtimeconfig.json
+C:\Users\derek\source\repos\Week5_3Problem\bin\Debug\net6.0\Week5_3Problem.dll
+C:\Users\derek\source\repos\Week5_3Problem\bin\Debug\net6.0\ref\Week5_3Problem.dll
+C:\Users\derek\source\repos\Week5_3Problem\bin\Debug\net6.0\Week5_3Problem.pdb
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.AssemblyInfoInputs.cache
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.AssemblyInfo.cs
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.dll
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\ref\Week5_3Problem.dll
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.pdb
+C:\Users\derek\source\repos\Week5_3Problem\obj\Debug\net6.0\Week5_3Problem.genruntimeconfig.cache
